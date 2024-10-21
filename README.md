@@ -1,1 +1,2 @@
 # ChatBot_application
+This project is an intelligent chatbot application using Django as the web framework and spaCy as the Natural Language Processing (NLP) engine. The chatbot is designed to engage users in natural language conversations, respond contextually, and handle a minimum of three different conversation topics, including weather inquiries, frequently asked questions (FAQs), and general chit-chat.
